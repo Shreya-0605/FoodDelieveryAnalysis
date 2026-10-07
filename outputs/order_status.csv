@@ -1,0 +1,8 @@
+order_status,total_orders
+Returned,895
+Rejected,2279
+Return cancelled,284
+Cancelled,1208
+Delivered,15297
+Timed out,889
+Picked up,469

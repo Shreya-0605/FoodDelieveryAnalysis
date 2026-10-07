@@ -1,0 +1,1030 @@
+order_date,order_status,total_orders
+2024-10-13,Returned,7
+2024-12-01,Returned,5
+2024-12-31,Delivered,165
+2024-12-25,Cancelled,4
+2025-01-29,Timed out,4
+2024-09-06,Rejected,21
+2024-09-11,Cancelled,19
+2025-01-12,Return cancelled,2
+2025-01-29,Return cancelled,3
+2024-09-14,Returned,21
+2024-10-01,Picked up,4
+2024-10-04,Return cancelled,1
+2024-11-18,Picked up,2
+2024-09-23,Rejected,9
+2024-12-09,Delivered,65
+2024-12-08,Delivered,94
+2024-12-21,Cancelled,6
+2024-10-25,Timed out,13
+2024-11-03,Rejected,17
+2025-01-02,Returned,6
+2024-09-29,Return cancelled,1
+2024-11-03,Delivered,80
+2024-10-29,Return cancelled,5
+2024-12-27,Picked up,1
+2025-01-05,Returned,7
+2024-10-23,Returned,6
+2024-11-06,Cancelled,7
+2024-11-21,Cancelled,11
+2024-12-02,Delivered,68
+2024-12-08,Cancelled,11
+2024-09-05,Return cancelled,1
+2024-09-18,Picked up,4
+2024-09-28,Timed out,10
+2024-11-12,Rejected,12
+2024-11-07,Cancelled,5
+2024-11-22,Returned,4
+2024-12-29,Delivered,91
+2024-12-30,Delivered,68
+2025-01-01,Returned,12
+2025-01-18,Rejected,22
+2025-01-18,Return cancelled,2
+2025-01-26,Return cancelled,5
+2024-09-04,Cancelled,13
+2024-09-06,Delivered,181
+2024-09-11,Return cancelled,7
+2024-09-27,Timed out,5
+2024-11-23,Delivered,209
+2024-11-29,Timed out,14
+2024-11-30,Return cancelled,4
+2024-12-19,Cancelled,7
+2024-09-19,Timed out,10
+2024-09-18,Timed out,2
+2024-12-15,Delivered,98
+2025-01-01,Delivered,181
+2025-01-02,Cancelled,4
+2025-01-10,Cancelled,5
+2025-01-13,Return cancelled,4
+2024-09-13,Return cancelled,1
+2024-10-11,Rejected,13
+2024-10-17,Cancelled,13
+2024-10-23,Delivered,122
+2024-11-23,Returned,17
+2024-11-28,Rejected,17
+2024-12-08,Rejected,13
+2024-12-25,Delivered,119
+2025-01-12,Returned,5
+2025-01-26,Delivered,134
+2025-01-31,Delivered,126
+2025-01-30,Rejected,11
+2024-11-19,Picked up,1
+2024-11-24,Rejected,15
+2024-11-30,Cancelled,11
+2024-12-19,Picked up,2
+2024-09-27,Cancelled,7
+2024-09-30,Picked up,1
+2024-10-21,Cancelled,5
+2024-10-27,Cancelled,14
+2024-11-05,Timed out,5
+2024-11-29,Picked up,1
+2025-01-21,Delivered,75
+2025-01-22,Returned,7
+2024-09-23,Returned,2
+2024-10-02,Rejected,18
+2024-11-03,Timed out,5
+2024-10-22,Picked up,1
+2025-01-01,Cancelled,14
+2024-09-02,Cancelled,4
+2024-10-08,Delivered,34
+2024-10-12,Timed out,6
+2024-10-25,Cancelled,10
+2025-01-30,Return cancelled,2
+2024-09-17,Cancelled,6
+2024-11-10,Rejected,22
+2024-11-10,Picked up,5
+2024-11-30,Delivered,117
+2024-12-22,Delivered,109
+2024-12-17,Returned,6
+2024-09-30,Delivered,75
+2024-10-21,Returned,2
+2024-10-30,Cancelled,3
+2024-12-17,Rejected,9
+2025-01-13,Returned,6
+2024-09-02,Returned,7
+2024-09-14,Rejected,43
+2024-12-21,Return cancelled,1
+2024-12-31,Returned,9
+2024-11-29,Rejected,14
+2024-12-24,Return cancelled,3
+2025-01-03,Picked up,4
+2025-01-16,Delivered,93
+2024-09-26,Returned,8
+2024-10-06,Picked up,2
+2024-10-08,Timed out,2
+2024-11-20,Delivered,75
+2024-09-08,Cancelled,8
+2024-10-18,Rejected,21
+2024-09-03,Picked up,1
+2024-10-13,Rejected,13
+2024-11-23,Timed out,6
+2024-12-31,Rejected,37
+2025-01-26,Picked up,4
+2024-10-24,Returned,1
+2024-12-17,Cancelled,10
+2024-09-04,Return cancelled,4
+2024-10-06,Cancelled,10
+2024-10-31,Cancelled,10
+2024-12-09,Return cancelled,1
+2025-01-08,Return cancelled,3
+2025-01-21,Returned,3
+2025-01-20,Return cancelled,5
+2024-09-06,Timed out,18
+2024-09-05,Cancelled,4
+2024-09-14,Return cancelled,6
+2024-09-25,Rejected,21
+2024-11-11,Delivered,58
+2024-11-06,Rejected,16
+2025-01-20,Returned,4
+2024-10-12,Return cancelled,4
+2024-10-20,Delivered,105
+2024-10-15,Returned,5
+2024-11-25,Timed out,6
+2024-11-16,Delivered,119
+2024-12-02,Picked up,1
+2024-12-12,Rejected,11
+2025-01-24,Picked up,1
+2024-09-08,Timed out,5
+2024-09-10,Timed out,4
+2024-09-22,Delivered,91
+2024-10-11,Cancelled,5
+2024-12-21,Rejected,23
+2024-12-29,Returned,3
+2024-09-04,Delivered,97
+2024-10-17,Delivered,195
+2025-01-01,Return cancelled,3
+2024-10-09,Rejected,13
+2024-10-27,Delivered,62
+2024-11-10,Timed out,6
+2024-11-17,Returned,6
+2024-12-05,Timed out,9
+2025-01-01,Picked up,3
+2024-10-18,Return cancelled,2
+2024-11-08,Delivered,198
+2025-01-17,Rejected,15
+2024-09-01,Returned,4
+2024-10-06,Delivered,97
+2024-10-30,Delivered,117
+2024-12-02,Cancelled,6
+2025-01-15,Picked up,4
+2025-01-24,Timed out,2
+2024-09-12,Picked up,4
+2024-10-12,Returned,5
+2024-10-31,Return cancelled,1
+2024-11-05,Picked up,2
+2024-11-21,Delivered,85
+2024-11-23,Picked up,4
+2024-12-10,Rejected,10
+2025-01-08,Delivered,68
+2025-01-06,Rejected,7
+2025-01-08,Picked up,3
+2025-01-09,Picked up,1
+2025-01-31,Rejected,20
+2024-09-23,Delivered,60
+2024-10-22,Rejected,5
+2025-01-19,Rejected,12
+2024-09-12,Timed out,5
+2024-09-21,Timed out,6
+2024-09-29,Timed out,3
+2024-10-05,Timed out,12
+2024-10-14,Timed out,2
+2024-11-20,Cancelled,5
+2024-12-14,Delivered,214
+2025-01-20,Rejected,16
+2024-10-01,Rejected,7
+2024-10-17,Rejected,28
+2024-11-02,Cancelled,7
+2024-12-26,Return cancelled,1
+2025-01-13,Timed out,2
+2025-01-17,Returned,3
+2025-01-16,Timed out,3
+2025-01-29,Returned,3
+2024-11-08,Cancelled,13
+2024-12-04,Picked up,3
+2025-01-06,Return cancelled,1
+2025-01-09,Return cancelled,1
+2025-01-23,Delivered,75
+2024-10-02,Picked up,2
+2024-12-03,Cancelled,11
+2024-12-23,Return cancelled,1
+2024-12-27,Timed out,2
+2025-01-14,Timed out,7
+2024-09-23,Timed out,7
+2024-11-15,Rejected,26
+2024-11-19,Rejected,24
+2024-09-14,Cancelled,18
+2024-12-09,Timed out,5
+2024-12-13,Timed out,5
+2024-12-26,Picked up,5
+2024-10-14,Delivered,57
+2024-11-08,Timed out,11
+2025-01-25,Returned,11
+2024-09-06,Returned,13
+2024-09-19,Return cancelled,6
+2024-10-16,Rejected,8
+2024-12-08,Timed out,8
+2025-01-09,Delivered,77
+2025-01-28,Cancelled,11
+2024-09-18,Cancelled,3
+2024-10-21,Rejected,14
+2024-11-13,Delivered,79
+2024-12-14,Returned,7
+2025-01-01,Rejected,27
+2025-01-07,Cancelled,3
+2025-01-22,Cancelled,9
+2024-09-30,Timed out,5
+2024-10-19,Cancelled,25
+2025-01-02,Rejected,13
+2025-01-16,Picked up,1
+2024-09-22,Timed out,5
+2024-10-16,Picked up,4
+2024-12-07,Rejected,16
+2025-01-26,Returned,7
+2025-01-27,Picked up,4
+2024-10-15,Delivered,56
+2024-11-15,Returned,10
+2024-12-31,Cancelled,10
+2024-09-05,Timed out,4
+2024-09-12,Cancelled,5
+2024-10-10,Cancelled,6
+2024-10-07,Timed out,4
+2024-11-01,Return cancelled,1
+2024-11-28,Delivered,91
+2024-12-18,Delivered,94
+2025-01-06,Cancelled,7
+2025-01-24,Return cancelled,1
+2024-09-30,Returned,5
+2024-10-12,Picked up,2
+2024-11-10,Returned,5
+2024-11-13,Timed out,6
+2024-12-10,Delivered,71
+2024-12-17,Return cancelled,3
+2024-12-30,Rejected,15
+2024-12-31,Return cancelled,2
+2025-01-22,Rejected,17
+2025-01-26,Timed out,7
+2024-10-05,Rejected,29
+2024-10-30,Timed out,5
+2024-11-12,Cancelled,2
+2024-11-21,Returned,10
+2024-12-04,Delivered,69
+2024-09-11,Returned,11
+2024-09-11,Picked up,5
+2024-09-16,Return cancelled,1
+2024-11-22,Picked up,6
+2024-12-07,Picked up,5
+2025-01-11,Delivered,81
+2025-01-04,Timed out,6
+2025-01-24,Cancelled,11
+2025-01-21,Cancelled,1
+2025-01-03,Timed out,2
+2025-01-10,Delivered,80
+2025-01-08,Returned,2
+2025-01-11,Timed out,3
+2024-11-12,Picked up,1
+2024-11-04,Rejected,6
+2024-11-27,Delivered,156
+2024-12-05,Rejected,9
+2025-01-07,Picked up,1
+2025-01-07,Returned,3
+2025-01-27,Timed out,1
+2024-09-13,Cancelled,5
+2024-09-12,Returned,4
+2024-09-21,Picked up,7
+2024-10-05,Cancelled,18
+2024-11-07,Picked up,3
+2024-11-06,Returned,4
+2024-12-18,Cancelled,6
+2025-01-23,Rejected,12
+2025-01-31,Timed out,12
+2024-09-03,Rejected,10
+2024-09-21,Cancelled,12
+2024-10-02,Cancelled,8
+2024-11-04,Picked up,4
+2024-12-17,Delivered,86
+2024-12-19,Rejected,13
+2024-12-22,Returned,5
+2024-09-21,Delivered,165
+2024-11-06,Delivered,74
+2024-12-23,Cancelled,4
+2024-12-25,Timed out,6
+2025-01-30,Delivered,82
+2025-01-28,Picked up,2
+2024-09-13,Returned,2
+2024-09-27,Picked up,4
+2024-10-24,Delivered,90
+2024-11-15,Timed out,21
+2024-12-19,Delivered,94
+2024-09-09,Rejected,7
+2024-10-03,Cancelled,2
+2024-11-14,Rejected,17
+2024-11-18,Timed out,9
+2025-01-17,Picked up,6
+2024-10-26,Delivered,97
+2025-01-05,Picked up,2
+2024-10-06,Rejected,9
+2024-11-06,Timed out,5
+2024-11-22,Return cancelled,2
+2024-12-11,Delivered,69
+2024-12-21,Timed out,6
+2025-01-31,Picked up,7
+2024-09-09,Timed out,6
+2024-10-11,Returned,9
+2024-10-21,Timed out,3
+2024-12-17,Picked up,3
+2025-01-15,Rejected,22
+2025-01-10,Picked up,2
+2024-09-25,Cancelled,6
+2024-10-15,Picked up,1
+2024-11-18,Returned,3
+2024-12-01,Rejected,16
+2024-10-14,Picked up,2
+2024-12-07,Delivered,107
+2024-12-05,Cancelled,6
+2024-12-20,Returned,6
+2024-12-24,Rejected,9
+2025-01-04,Picked up,4
+2024-09-01,Rejected,13
+2024-09-29,Delivered,80
+2024-10-09,Return cancelled,1
+2024-10-30,Returned,4
+2024-11-18,Return cancelled,2
+2024-11-28,Cancelled,7
+2024-12-16,Rejected,14
+2024-12-23,Rejected,5
+2024-12-15,Picked up,1
+2025-01-24,Delivered,98
+2024-12-23,Delivered,73
+2024-12-23,Timed out,3
+2024-12-27,Returned,4
+2025-01-11,Cancelled,3
+2024-09-01,Cancelled,11
+2024-10-17,Timed out,15
+2024-11-08,Picked up,7
+2024-11-21,Return cancelled,1
+2024-12-30,Picked up,2
+2024-11-04,Returned,4
+2024-11-24,Returned,3
+2024-12-30,Timed out,5
+2024-09-24,Picked up,4
+2024-10-06,Return cancelled,1
+2024-10-25,Returned,7
+2024-10-23,Return cancelled,1
+2024-11-14,Picked up,3
+2024-12-29,Return cancelled,4
+2024-10-02,Timed out,10
+2024-10-13,Cancelled,8
+2024-10-19,Rejected,29
+2024-09-08,Rejected,8
+2024-09-20,Rejected,19
+2024-10-13,Return cancelled,2
+2024-11-15,Delivered,203
+2024-11-12,Returned,6
+2025-01-27,Delivered,59
+2025-01-28,Timed out,2
+2024-09-07,Return cancelled,1
+2024-10-01,Returned,3
+2024-12-28,Cancelled,9
+2025-01-08,Rejected,10
+2025-01-05,Cancelled,3
+2024-09-16,Cancelled,6
+2024-11-17,Delivered,109
+2024-11-11,Cancelled,6
+2024-11-16,Picked up,7
+2024-11-28,Returned,5
+2025-01-07,Rejected,10
+2025-01-12,Rejected,10
+2024-10-02,Return cancelled,1
+2025-01-23,Cancelled,9
+2024-09-05,Returned,5
+2024-10-31,Returned,10
+2024-11-10,Return cancelled,7
+2024-12-06,Returned,7
+2024-12-22,Timed out,9
+2025-01-14,Rejected,20
+2025-01-09,Timed out,7
+2024-10-05,Delivered,182
+2024-10-19,Picked up,9
+2024-11-01,Returned,7
+2024-11-02,Return cancelled,1
+2024-11-18,Cancelled,3
+2024-12-18,Picked up,6
+2024-12-21,Returned,11
+2024-12-30,Cancelled,6
+2024-11-13,Return cancelled,1
+2024-12-04,Returned,4
+2025-01-22,Timed out,7
+2024-09-12,Rejected,12
+2024-10-16,Timed out,6
+2024-10-21,Return cancelled,1
+2024-12-03,Delivered,178
+2024-11-29,Cancelled,5
+2025-01-29,Picked up,3
+2024-09-29,Cancelled,6
+2024-10-26,Rejected,11
+2024-11-14,Return cancelled,1
+2024-11-30,Timed out,9
+2024-12-27,Cancelled,5
+2025-01-15,Returned,4
+2024-09-27,Delivered,80
+2024-10-04,Delivered,60
+2024-09-26,Cancelled,2
+2024-10-14,Rejected,11
+2024-11-18,Rejected,12
+2025-01-29,Cancelled,7
+2024-09-25,Returned,11
+2025-01-18,Cancelled,7
+2024-09-18,Delivered,59
+2024-09-20,Picked up,2
+2024-09-27,Returned,4
+2024-10-16,Returned,5
+2024-11-01,Timed out,5
+2024-12-20,Timed out,8
+2024-12-06,Rejected,6
+2025-01-19,Return cancelled,3
+2024-09-07,Delivered,105
+2024-11-21,Timed out,5
+2024-11-16,Timed out,2
+2024-12-03,Rejected,24
+2024-12-09,Picked up,2
+2024-09-26,Rejected,9
+2024-10-01,Cancelled,7
+2024-10-09,Returned,12
+2024-10-16,Cancelled,5
+2024-11-17,Return cancelled,2
+2025-01-03,Rejected,13
+2025-01-12,Picked up,2
+2024-12-01,Cancelled,8
+2024-11-16,Cancelled,4
+2024-12-12,Picked up,2
+2024-12-26,Cancelled,8
+2025-01-05,Rejected,10
+2025-01-09,Cancelled,5
+2025-01-13,Picked up,1
+2024-10-30,Return cancelled,1
+2024-11-11,Returned,4
+2024-11-27,Cancelled,14
+2024-12-16,Cancelled,4
+2024-09-05,Delivered,65
+2024-09-11,Timed out,9
+2024-10-03,Delivered,57
+2024-11-11,Return cancelled,3
+2024-12-24,Returned,3
+2025-01-02,Picked up,2
+2025-01-09,Rejected,7
+2024-12-31,Timed out,9
+2024-11-28,Picked up,4
+2024-09-22,Cancelled,7
+2024-10-11,Timed out,4
+2024-11-04,Cancelled,7
+2024-12-12,Cancelled,4
+2025-01-10,Returned,2
+2024-09-08,Picked up,2
+2024-10-23,Rejected,14
+2024-12-13,Picked up,6
+2025-01-31,Returned,8
+2024-09-21,Returned,12
+2024-10-07,Picked up,2
+2024-10-09,Picked up,6
+2024-10-12,Rejected,17
+2024-11-10,Delivered,149
+2024-11-15,Cancelled,18
+2024-12-02,Returned,5
+2024-12-26,Timed out,6
+2025-01-06,Returned,3
+2024-11-17,Picked up,1
+2024-12-11,Cancelled,8
+2025-01-22,Return cancelled,1
+2024-09-16,Delivered,63
+2024-10-26,Timed out,7
+2024-11-08,Returned,15
+2024-11-12,Return cancelled,1
+2024-12-14,Rejected,26
+2025-01-05,Delivered,89
+2024-09-18,Returned,1
+2024-11-24,Return cancelled,3
+2024-12-18,Return cancelled,1
+2024-10-22,Delivered,54
+2024-10-22,Returned,4
+2024-10-28,Return cancelled,1
+2024-12-04,Cancelled,5
+2025-01-02,Return cancelled,2
+2024-09-03,Timed out,3
+2024-09-20,Return cancelled,4
+2024-11-13,Cancelled,5
+2024-11-27,Picked up,7
+2024-09-02,Rejected,11
+2024-09-22,Picked up,2
+2024-09-26,Picked up,5
+2024-09-07,Returned,4
+2024-09-10,Return cancelled,1
+2024-09-24,Cancelled,12
+2024-10-28,Timed out,6
+2024-11-29,Delivered,91
+2024-12-06,Timed out,8
+2024-12-15,Timed out,4
+2024-12-27,Rejected,9
+2025-01-04,Returned,10
+2025-01-20,Cancelled,8
+2024-10-01,Delivered,84
+2024-10-05,Returned,6
+2024-10-28,Rejected,6
+2024-11-29,Returned,4
+2024-12-28,Rejected,12
+2024-09-28,Cancelled,13
+2024-10-24,Picked up,2
+2024-11-04,Timed out,2
+2025-01-20,Picked up,4
+2024-09-04,Picked up,6
+2024-09-22,Return cancelled,1
+2024-10-24,Timed out,6
+2024-12-20,Delivered,122
+2024-10-30,Rejected,19
+2024-10-20,Return cancelled,1
+2024-11-12,Delivered,63
+2024-11-16,Returned,9
+2024-12-18,Rejected,13
+2024-12-19,Returned,2
+2025-01-09,Returned,3
+2024-09-05,Rejected,11
+2024-09-10,Cancelled,3
+2024-09-17,Timed out,6
+2024-09-24,Rejected,26
+2024-10-19,Returned,12
+2024-11-07,Return cancelled,1
+2024-12-29,Picked up,4
+2025-01-18,Picked up,1
+2025-01-25,Return cancelled,5
+2024-10-01,Timed out,6
+2024-12-01,Picked up,5
+2024-12-07,Cancelled,6
+2025-01-26,Cancelled,6
+2024-09-26,Timed out,4
+2024-12-03,Timed out,5
+2025-01-04,Cancelled,7
+2025-01-20,Delivered,106
+2024-10-18,Cancelled,6
+2024-11-15,Return cancelled,3
+2024-11-30,Returned,10
+2025-01-06,Delivered,71
+2024-10-07,Return cancelled,3
+2024-10-05,Picked up,4
+2024-10-25,Picked up,6
+2024-12-12,Delivered,83
+2024-12-10,Cancelled,7
+2024-10-22,Return cancelled,2
+2024-11-25,Delivered,120
+2024-12-13,Delivered,136
+2024-11-22,Cancelled,11
+2024-12-11,Return cancelled,2
+2024-12-18,Timed out,3
+2024-09-03,Cancelled,9
+2024-09-25,Return cancelled,2
+2024-10-04,Timed out,3
+2024-10-15,Rejected,7
+2024-10-20,Rejected,14
+2024-10-20,Returned,8
+2024-12-01,Delivered,88
+2025-01-15,Delivered,76
+2025-01-30,Timed out,4
+2024-09-14,Delivered,244
+2024-10-09,Timed out,7
+2024-12-02,Timed out,2
+2024-09-11,Rejected,11
+2024-09-16,Returned,1
+2024-12-14,Timed out,12
+2024-12-04,Timed out,5
+2024-12-01,Return cancelled,1
+2024-12-11,Returned,3
+2024-12-11,Picked up,3
+2025-01-03,Delivered,61
+2024-09-01,Delivered,109
+2024-09-24,Return cancelled,6
+2024-10-23,Timed out,11
+2024-10-22,Timed out,6
+2024-11-07,Rejected,15
+2024-09-29,Returned,7
+2024-10-03,Timed out,4
+2024-10-08,Return cancelled,1
+2025-01-20,Timed out,12
+2024-09-02,Delivered,58
+2024-09-17,Returned,7
+2024-11-03,Cancelled,6
+2024-12-16,Timed out,6
+2025-01-29,Rejected,17
+2024-10-21,Picked up,2
+2024-11-07,Returned,7
+2024-11-09,Picked up,2
+2024-11-19,Return cancelled,2
+2025-01-25,Cancelled,4
+2024-09-12,Delivered,80
+2024-09-22,Rejected,13
+2024-11-16,Return cancelled,4
+2024-12-09,Returned,4
+2024-12-15,Returned,9
+2024-09-30,Cancelled,5
+2024-10-11,Return cancelled,2
+2024-10-18,Delivered,111
+2024-12-05,Delivered,80
+2025-01-07,Timed out,3
+2024-09-15,Picked up,3
+2024-09-28,Rejected,17
+2024-10-13,Timed out,6
+2024-10-15,Return cancelled,1
+2024-10-26,Cancelled,8
+2024-10-31,Delivered,139
+2024-12-05,Returned,2
+2024-12-26,Returned,11
+2024-12-26,Rejected,18
+2025-01-12,Cancelled,4
+2025-01-22,Picked up,1
+2024-09-10,Returned,4
+2024-09-18,Rejected,6
+2024-11-15,Picked up,9
+2024-11-02,Timed out,6
+2024-12-16,Returned,6
+2024-12-16,Picked up,1
+2025-01-27,Cancelled,1
+2024-11-17,Timed out,5
+2024-12-14,Cancelled,24
+2024-09-15,Delivered,104
+2024-09-22,Returned,7
+2024-11-14,Delivered,90
+2024-11-26,Rejected,8
+2024-12-06,Return cancelled,4
+2024-12-16,Return cancelled,1
+2025-01-16,Cancelled,6
+2024-10-04,Returned,3
+2024-10-19,Delivered,173
+2024-12-15,Rejected,17
+2024-12-25,Rejected,21
+2025-01-13,Rejected,12
+2024-10-16,Return cancelled,2
+2024-09-09,Cancelled,5
+2024-11-23,Cancelled,16
+2024-12-11,Rejected,12
+2024-12-10,Picked up,3
+2024-12-13,Cancelled,8
+2025-01-25,Timed out,10
+2024-09-09,Picked up,2
+2024-12-28,Timed out,3
+2025-01-25,Rejected,26
+2024-09-25,Delivered,124
+2024-10-27,Timed out,5
+2024-12-29,Timed out,6
+2025-01-22,Delivered,81
+2024-09-02,Timed out,4
+2024-09-17,Rejected,8
+2024-09-19,Rejected,20
+2024-09-28,Picked up,2
+2024-09-29,Picked up,2
+2024-10-11,Delivered,99
+2024-10-24,Rejected,9
+2024-12-17,Timed out,7
+2024-12-20,Return cancelled,2
+2024-11-20,Rejected,12
+2024-12-20,Picked up,2
+2025-01-15,Timed out,3
+2024-10-05,Return cancelled,4
+2024-10-22,Cancelled,7
+2024-10-26,Returned,5
+2024-11-24,Timed out,11
+2024-11-27,Returned,8
+2025-01-19,Delivered,86
+2025-01-28,Returned,3
+2024-09-17,Return cancelled,1
+2024-10-16,Delivered,81
+2024-10-15,Timed out,2
+2024-11-01,Rejected,23
+2024-12-10,Timed out,4
+2024-12-26,Delivered,165
+2024-12-30,Return cancelled,1
+2025-01-08,Timed out,3
+2025-01-17,Delivered,101
+2025-01-11,Rejected,12
+2025-01-10,Return cancelled,1
+2024-10-09,Cancelled,9
+2024-10-29,Cancelled,10
+2025-01-23,Timed out,4
+2024-10-07,Delivered,55
+2024-11-01,Picked up,4
+2024-12-20,Cancelled,10
+2024-12-19,Timed out,3
+2025-01-17,Cancelled,12
+2024-09-06,Picked up,6
+2024-09-28,Returned,3
+2024-09-25,Timed out,5
+2024-11-14,Timed out,6
+2024-11-25,Cancelled,13
+2024-12-08,Picked up,2
+2025-01-04,Delivered,81
+2025-01-12,Timed out,2
+2024-09-14,Timed out,10
+2024-11-05,Delivered,65
+2024-10-24,Cancelled,6
+2024-11-04,Delivered,56
+2025-01-25,Delivered,184
+2024-09-04,Rejected,22
+2024-10-31,Rejected,21
+2024-11-13,Returned,11
+2024-11-14,Returned,2
+2024-11-14,Cancelled,10
+2024-12-28,Delivered,81
+2024-12-22,Cancelled,8
+2025-01-13,Cancelled,10
+2025-01-18,Timed out,3
+2024-10-23,Cancelled,12
+2024-09-15,Cancelled,8
+2024-11-26,Timed out,5
+2024-11-05,Cancelled,7
+2024-11-19,Cancelled,5
+2025-01-03,Return cancelled,1
+2025-01-11,Returned,10
+2024-09-03,Returned,8
+2024-09-15,Timed out,3
+2024-10-07,Rejected,7
+2024-10-07,Returned,3
+2024-12-12,Returned,6
+2025-01-15,Return cancelled,4
+2024-09-04,Timed out,6
+2024-09-30,Rejected,11
+2024-10-07,Cancelled,1
+2024-11-02,Delivered,91
+2024-11-09,Cancelled,5
+2024-12-28,Returned,9
+2025-01-31,Return cancelled,5
+2024-09-24,Timed out,9
+2024-10-15,Cancelled,9
+2024-11-24,Delivered,122
+2024-12-05,Picked up,2
+2024-12-04,Rejected,3
+2024-12-06,Cancelled,10
+2025-01-24,Rejected,10
+2024-09-19,Cancelled,10
+2024-09-30,Return cancelled,1
+2024-10-14,Cancelled,6
+2024-11-30,Rejected,14
+2025-01-18,Delivered,123
+2024-09-20,Timed out,5
+2024-10-04,Cancelled,4
+2024-11-13,Picked up,1
+2024-12-11,Timed out,3
+2024-12-21,Picked up,2
+2025-01-28,Rejected,9
+2024-10-20,Cancelled,15
+2024-10-28,Delivered,68
+2024-11-16,Rejected,17
+2024-11-28,Timed out,4
+2024-11-30,Picked up,3
+2024-12-03,Return cancelled,3
+2024-12-09,Cancelled,4
+2025-01-31,Cancelled,15
+2024-10-03,Picked up,1
+2024-10-19,Return cancelled,5
+2024-11-27,Rejected,18
+2024-09-25,Picked up,5
+2024-10-08,Returned,5
+2024-11-25,Return cancelled,4
+2025-01-23,Picked up,4
+2024-09-07,Cancelled,15
+2024-10-31,Timed out,6
+2024-11-12,Timed out,2
+2024-11-27,Timed out,13
+2024-12-20,Rejected,19
+2025-01-19,Picked up,5
+2024-09-02,Picked up,1
+2024-09-08,Delivered,87
+2024-09-10,Picked up,1
+2024-10-27,Returned,5
+2024-10-31,Picked up,5
+2024-11-23,Rejected,24
+2024-12-14,Return cancelled,3
+2024-12-24,Timed out,5
+2025-01-27,Rejected,14
+2024-09-08,Returned,3
+2024-09-28,Delivered,96
+2024-10-21,Delivered,61
+2024-11-03,Picked up,3
+2024-11-27,Return cancelled,2
+2024-12-05,Return cancelled,1
+2024-12-10,Returned,5
+2024-12-25,Picked up,3
+2025-01-03,Returned,2
+2025-01-30,Picked up,3
+2024-10-12,Cancelled,5
+2024-10-12,Delivered,116
+2024-10-20,Timed out,4
+2024-11-09,Returned,3
+2024-11-21,Picked up,1
+2025-01-30,Cancelled,9
+2024-11-26,Delivered,66
+2024-12-23,Returned,4
+2025-01-06,Picked up,3
+2025-01-15,Cancelled,3
+2024-09-21,Rejected,19
+2024-11-05,Rejected,17
+2025-01-14,Picked up,3
+2025-01-29,Delivered,79
+2024-09-17,Delivered,59
+2024-10-02,Returned,8
+2024-10-08,Cancelled,6
+2024-10-10,Rejected,5
+2024-10-13,Picked up,2
+2024-12-12,Timed out,6
+2024-12-22,Rejected,19
+2024-12-30,Returned,5
+2024-10-25,Rejected,20
+2024-12-09,Rejected,4
+2024-09-14,Picked up,5
+2024-09-20,Cancelled,4
+2024-10-29,Delivered,205
+2024-11-22,Timed out,3
+2024-11-23,Return cancelled,5
+2025-01-02,Timed out,4
+2025-01-23,Returned,4
+2024-09-04,Returned,8
+2024-10-13,Delivered,68
+2024-11-03,Returned,3
+2024-11-22,Rejected,13
+2024-09-06,Cancelled,18
+2024-12-03,Picked up,4
+2024-12-15,Cancelled,11
+2024-12-25,Return cancelled,3
+2025-01-08,Cancelled,3
+2025-01-11,Picked up,6
+2024-11-07,Delivered,84
+2024-11-04,Return cancelled,2
+2024-11-21,Rejected,6
+2025-01-14,Return cancelled,3
+2024-11-07,Timed out,2
+2025-01-30,Returned,4
+2024-09-24,Returned,12
+2024-09-15,Returned,5
+2024-10-10,Picked up,4
+2024-12-06,Delivered,86
+2024-12-13,Return cancelled,3
+2024-12-24,Cancelled,7
+2025-01-05,Timed out,4
+2025-01-18,Returned,3
+2025-01-19,Timed out,6
+2024-09-16,Timed out,3
+2024-09-20,Returned,1
+2024-09-29,Rejected,15
+2024-10-02,Delivered,81
+2024-10-29,Timed out,6
+2024-11-18,Delivered,86
+2024-11-22,Delivered,98
+2024-11-20,Timed out,8
+2025-01-14,Cancelled,9
+2024-10-10,Returned,2
+2024-10-25,Delivered,149
+2024-10-29,Returned,9
+2024-10-27,Rejected,9
+2024-10-27,Return cancelled,2
+2024-11-02,Rejected,15
+2024-11-25,Picked up,3
+2025-01-21,Return cancelled,1
+2024-09-11,Delivered,139
+2024-09-13,Delivered,82
+2024-12-19,Return cancelled,1
+2024-11-01,Delivered,98
+2024-12-22,Picked up,2
+2025-01-02,Delivered,86
+2025-01-21,Rejected,18
+2025-01-21,Timed out,4
+2024-09-27,Rejected,21
+2024-10-06,Timed out,5
+2024-11-01,Cancelled,4
+2024-09-10,Rejected,14
+2024-09-20,Delivered,96
+2024-09-24,Delivered,175
+2024-10-03,Rejected,10
+2024-11-19,Returned,6
+2024-12-01,Timed out,3
+2024-12-23,Picked up,3
+2024-12-24,Picked up,2
+2025-01-17,Timed out,8
+2024-09-17,Picked up,5
+2024-12-06,Picked up,1
+2024-09-13,Timed out,4
+2024-09-19,Delivered,184
+2024-10-23,Picked up,5
+2024-10-25,Return cancelled,4
+2024-11-08,Return cancelled,2
+2024-12-15,Return cancelled,1
+2024-09-23,Picked up,2
+2024-11-09,Rejected,11
+2025-01-03,Cancelled,7
+2025-01-16,Rejected,9
+2025-01-26,Rejected,21
+2024-11-11,Timed out,2
+2024-12-07,Returned,5
+2024-11-24,Picked up,6
+2025-01-19,Returned,4
+2024-09-05,Picked up,1
+2024-09-16,Picked up,3
+2024-10-18,Returned,5
+2024-10-30,Picked up,1
+2024-10-28,Picked up,2
+2024-11-20,Returned,8
+2024-12-28,Return cancelled,2
+2024-12-29,Cancelled,6
+2024-09-07,Timed out,5
+2024-09-13,Rejected,11
+2024-12-08,Return cancelled,1
+2025-01-10,Timed out,7
+2025-01-25,Picked up,4
+2024-09-23,Cancelled,6
+2024-10-11,Picked up,3
+2024-10-18,Timed out,6
+2024-11-02,Returned,4
+2024-11-10,Cancelled,16
+2024-11-25,Returned,8
+2024-12-07,Timed out,5
+2024-10-14,Returned,5
+2024-09-28,Return cancelled,1
+2024-10-01,Return cancelled,3
+2024-12-13,Rejected,20
+2024-12-10,Return cancelled,5
+2024-12-25,Returned,7
+2025-01-01,Timed out,12
+2025-01-04,Rejected,10
+2025-01-14,Returned,5
+2024-09-10,Delivered,67
+2024-09-23,Return cancelled,4
+2025-01-06,Timed out,6
+2025-01-17,Return cancelled,4
+2025-01-24,Returned,3
+2024-09-16,Rejected,14
+2024-10-10,Delivered,56
+2024-10-09,Delivered,130
+2024-11-11,Rejected,14
+2024-11-26,Picked up,1
+2024-12-02,Rejected,14
+2024-12-28,Picked up,2
+2025-01-13,Delivered,64
+2024-09-03,Delivered,68
+2024-09-26,Delivered,78
+2024-11-17,Rejected,13
+2024-12-29,Rejected,11
+2024-09-01,Timed out,2
+2024-10-06,Returned,5
+2024-10-10,Return cancelled,2
+2024-10-29,Picked up,10
+2024-11-20,Return cancelled,1
+2024-11-26,Cancelled,9
+2024-09-19,Returned,11
+2025-01-10,Rejected,14
+2024-10-17,Picked up,7
+2024-10-19,Timed out,11
+2024-11-06,Picked up,3
+2024-11-13,Rejected,16
+2024-12-21,Delivered,126
+2024-09-19,Picked up,4
+2024-10-28,Cancelled,6
+2024-11-24,Cancelled,7
+2024-09-01,Return cancelled,2
+2024-09-07,Rejected,16
+2024-09-15,Rejected,13
+2024-11-09,Return cancelled,3
+2024-11-25,Rejected,31
+2024-11-26,Returned,4
+2024-12-27,Delivered,63
+2025-01-07,Delivered,62
+2025-01-19,Cancelled,7
+2024-10-08,Rejected,11
+2024-11-05,Return cancelled,1
+2024-11-17,Cancelled,11
+2024-12-31,Picked up,6
+2025-01-14,Delivered,125
+2024-10-10,Timed out,1
+2024-11-09,Delivered,129
+2024-11-09,Timed out,4
+2024-12-08,Returned,1
+2024-12-14,Picked up,9
+2024-12-18,Returned,4
+2024-10-04,Rejected,10
+2024-10-27,Picked up,2
+2024-11-08,Rejected,29
+2024-11-05,Returned,11
+2024-11-19,Timed out,7
+2025-01-16,Return cancelled,3
+2024-10-17,Returned,7
+2024-11-19,Delivered,137
+2024-09-09,Returned,2
+2024-10-29,Rejected,32
+2024-10-18,Picked up,5
+2024-10-26,Picked up,1
+2025-01-12,Delivered,88
+2025-01-28,Delivered,95
+2024-09-21,Return cancelled,2
+2024-10-28,Returned,5
+2024-12-03,Returned,10
+2024-12-13,Returned,9
+2025-01-27,Returned,4
+2025-01-27,Return cancelled,1
+2024-09-09,Delivered,60
+2024-09-06,Return cancelled,1
+2024-10-04,Picked up,3
+2024-12-16,Delivered,91
+2024-12-24,Delivered,67

@@ -1,0 +1,122 @@
+order_hour,order_status,total_orders
+11,Picked up,5
+2,Cancelled,28
+20,Picked up,77
+18,Timed out,61
+12,Rejected,74
+12,Return cancelled,8
+20,Returned,127
+13,Return cancelled,19
+13,Rejected,108
+18,Returned,59
+14,Timed out,29
+3,Timed out,21
+17,Return cancelled,8
+17,Picked up,25
+20,Return cancelled,52
+21,Delivered,1680
+23,Cancelled,89
+15,Timed out,21
+4,Delivered,4
+11,Returned,20
+22,Picked up,44
+1,Return cancelled,15
+19,Delivered,1827
+0,Timed out,87
+18,Cancelled,100
+17,Returned,51
+21,Rejected,218
+18,Picked up,35
+16,Picked up,16
+23,Returned,61
+2,Rejected,76
+21,Return cancelled,31
+15,Delivered,608
+15,Returned,42
+0,Rejected,161
+0,Returned,35
+21,Timed out,93
+19,Timed out,84
+19,Cancelled,131
+14,Cancelled,55
+18,Return cancelled,18
+19,Picked up,38
+3,Picked up,8
+22,Returned,70
+3,Delivered,270
+23,Picked up,41
+17,Cancelled,61
+23,Timed out,118
+14,Delivered,765
+16,Returned,33
+12,Returned,42
+2,Timed out,33
+3,Returned,22
+15,Rejected,85
+12,Timed out,31
+0,Picked up,13
+22,Delivered,1278
+19,Returned,101
+20,Timed out,86
+11,Delivered,222
+19,Return cancelled,26
+22,Cancelled,107
+13,Picked up,30
+12,Delivered,685
+21,Returned,91
+21,Picked up,54
+15,Picked up,15
+1,Cancelled,41
+12,Cancelled,52
+18,Delivered,1160
+23,Delivered,947
+23,Rejected,200
+21,Cancelled,129
+11,Return cancelled,5
+22,Timed out,46
+18,Rejected,178
+11,Timed out,12
+3,Cancelled,27
+13,Timed out,32
+2,Return cancelled,7
+22,Rejected,181
+16,Cancelled,48
+22,Return cancelled,22
+2,Returned,24
+1,Timed out,55
+1,Delivered,534
+1,Returned,27
+12,Picked up,17
+20,Rejected,287
+4,Cancelled,1
+16,Timed out,34
+14,Returned,47
+3,Rejected,39
+14,Return cancelled,12
+2,Picked up,5
+16,Rejected,90
+1,Rejected,137
+13,Cancelled,64
+23,Return cancelled,21
+11,Rejected,29
+2,Delivered,315
+0,Delivered,583
+14,Picked up,22
+14,Rejected,102
+17,Timed out,46
+15,Return cancelled,14
+15,Cancelled,39
+0,Return cancelled,12
+17,Delivered,776
+13,Delivered,846
+1,Picked up,24
+20,Delivered,2125
+13,Returned,43
+17,Rejected,102
+0,Cancelled,66
+3,Return cancelled,2
+20,Cancelled,158
+19,Rejected,212
+16,Return cancelled,12
+16,Delivered,672
+11,Cancelled,12

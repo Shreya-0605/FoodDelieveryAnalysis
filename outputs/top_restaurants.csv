@@ -1,0 +1,124 @@
+restaurant_id,restaurant_name,order_status,total_orders
+21309083,Swaad,Rejected,98
+21114574,Dilli Burger Adda,Delivered,25
+21467440,The Chicken Junction,Delivered,2
+21173951,Aura Pizzas,Rejected,85
+20968194,Dilli Burger Adda,Cancelled,5
+21145152,Tandoori Junction,Rejected,6
+20320607,Swaad,Cancelled,132
+20882713,Swaad,Picked up,26
+21143186,Tandoori Junction,Timed out,4
+20882652,Aura Pizzas,Delivered,1895
+20635699,Aura Pizzas,Rejected,469
+21143186,Tandoori Junction,Returned,5
+21309083,Swaad,Return cancelled,9
+20659868,Aura Pizzas,Rejected,437
+20882652,Aura Pizzas,Timed out,103
+20882652,Aura Pizzas,Returned,95
+20659868,Aura Pizzas,Cancelled,234
+20968206,Dilli Burger Adda,Picked up,4
+20968171,Dilli Burger Adda,Returned,2
+21523055,Masala Junction,Rejected,5
+21467269,The Chicken Junction,Rejected,1
+21467269,The Chicken Junction,Cancelled,1
+21077127,Aura Pizzas,Timed out,67
+20554001,Swaad,Delivered,1831
+20554001,Swaad,Rejected,396
+21523055,Masala Junction,Returned,1
+20320607,Swaad,Rejected,233
+20882713,Swaad,Returned,54
+20882713,Swaad,Cancelled,80
+20882713,Swaad,Delivered,731
+21309083,Swaad,Cancelled,40
+20554001,Swaad,Picked up,81
+21077127,Aura Pizzas,Picked up,42
+21143186,Tandoori Junction,Return cancelled,2
+20635699,Aura Pizzas,Delivered,3235
+20554001,Swaad,Cancelled,193
+20968206,Dilli Burger Adda,Rejected,11
+21350931,Tandoori Junction,Delivered,17
+20968194,Dilli Burger Adda,Return cancelled,1
+21424296,Tandoori Junction,Timed out,1
+20968171,Dilli Burger Adda,Delivered,23
+21523055,Masala Junction,Cancelled,1
+20968206,Dilli Burger Adda,Returned,1
+20882713,Swaad,Return cancelled,20
+21077127,Aura Pizzas,Returned,91
+21467269,The Chicken Junction,Timed out,1
+20968171,Dilli Burger Adda,Return cancelled,1
+21077127,Aura Pizzas,Delivered,1547
+20882713,Swaad,Rejected,117
+20968206,Dilli Burger Adda,Delivered,84
+20882652,Aura Pizzas,Picked up,62
+21523055,Masala Junction,Delivered,16
+20968171,Dilli Burger Adda,Timed out,2
+20320607,Swaad,Return cancelled,30
+20968171,Dilli Burger Adda,Cancelled,3
+21309083,Swaad,Picked up,22
+20968194,Dilli Burger Adda,Delivered,30
+21143186,Tandoori Junction,Delivered,45
+21523055,Masala Junction,Timed out,2
+21077127,Aura Pizzas,Return cancelled,32
+21173951,Aura Pizzas,Return cancelled,9
+20635699,Aura Pizzas,Cancelled,219
+20882652,Aura Pizzas,Rejected,221
+20554001,Swaad,Returned,111
+21145152,Tandoori Junction,Timed out,1
+21145152,Tandoori Junction,Cancelled,3
+20882652,Aura Pizzas,Cancelled,133
+20635699,Aura Pizzas,Return cancelled,59
+20882652,Aura Pizzas,Return cancelled,36
+21467512,The Chicken Junction,Picked up,1
+20968206,Dilli Burger Adda,Cancelled,3
+21523055,Masala Junction,Picked up,3
+21143186,Tandoori Junction,Rejected,9
+21424296,Tandoori Junction,Delivered,12
+21077127,Aura Pizzas,Cancelled,103
+21077127,Aura Pizzas,Rejected,169
+21467269,The Chicken Junction,Delivered,26
+20659868,Aura Pizzas,Picked up,99
+21145152,Tandoori Junction,Picked up,1
+21309083,Swaad,Returned,42
+21173951,Aura Pizzas,Timed out,24
+21350931,Tandoori Junction,Returned,1
+21350931,Tandoori Junction,Rejected,5
+20659868,Aura Pizzas,Delivered,3442
+20968171,Dilli Burger Adda,Rejected,3
+21309083,Swaad,Delivered,457
+20554001,Swaad,Timed out,128
+21173951,Aura Pizzas,Cancelled,47
+21114574,Dilli Burger Adda,Return cancelled,1
+20320607,Swaad,Picked up,41
+21114574,Dilli Burger Adda,Cancelled,1
+21114574,Dilli Burger Adda,Picked up,1
+20320607,Swaad,Delivered,1151
+20968194,Dilli Burger Adda,Rejected,8
+21173951,Aura Pizzas,Returned,34
+20968194,Dilli Burger Adda,Timed out,2
+20659868,Aura Pizzas,Timed out,172
+21114574,Dilli Burger Adda,Timed out,3
+21309083,Swaad,Timed out,30
+21424296,Tandoori Junction,Rejected,1
+21173951,Aura Pizzas,Picked up,17
+21145152,Tandoori Junction,Delivered,24
+20320607,Swaad,Returned,91
+20968194,Dilli Burger Adda,Returned,1
+20635699,Aura Pizzas,Returned,174
+21145152,Tandoori Junction,Returned,3
+20968206,Dilli Burger Adda,Timed out,6
+20554001,Swaad,Return cancelled,41
+21143186,Tandoori Junction,Cancelled,5
+21173951,Aura Pizzas,Delivered,704
+20659868,Aura Pizzas,Returned,188
+20659868,Aura Pizzas,Return cancelled,42
+21114574,Dilli Burger Adda,Returned,1
+20320607,Swaad,Timed out,96
+21350931,Tandoori Junction,Cancelled,3
+21350931,Tandoori Junction,Return cancelled,1
+21143186,Tandoori Junction,Picked up,2
+21114574,Dilli Burger Adda,Rejected,5
+20635699,Aura Pizzas,Picked up,67
+21350931,Tandoori Junction,Timed out,1
+20635699,Aura Pizzas,Timed out,195
+20882713,Swaad,Timed out,51
+21424296,Tandoori Junction,Cancelled,2

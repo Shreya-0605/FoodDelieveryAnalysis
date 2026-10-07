@@ -1,0 +1,9 @@
+order_status,total_unique_customers,repeat_customers,one_time_customers
+__ALL_ORDERS__,11607,3894,7713
+Returned,843,46,797
+Rejected,1957,218,1739
+Return cancelled,278,5,273
+Cancelled,1122,73,1049
+Delivered,9296,2792,6504
+Timed out,831,48,783
+Picked up,456,13,443

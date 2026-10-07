@@ -1,12 +1,32 @@
+import csv
+from pathlib import Path
+
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import (
+    count,
+    lit,
     col,
     sum as spark_sum,
     to_timestamp,
     to_date,
     hour,
-    date_format
+    date_format,
+    when
 )
+
+OUTPUT_DIR = Path(__file__).resolve().parent.parent / "outputs"
+
+
+def save_single_csv(dataframe, file_name):
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+    output_file = OUTPUT_DIR / file_name
+
+    with output_file.open("w", newline="", encoding="utf-8") as csv_file:
+        writer = csv.DictWriter(csv_file, fieldnames=dataframe.columns)
+        writer.writeheader()
+        for row in dataframe.toLocalIterator():
+            writer.writerow(row.asDict())
+
 
 # ============================================================
 # 1. START SPARK
@@ -313,7 +333,99 @@ df.groupBy(
 
 
 # ============================================================
-# 8. FINISH
+# 8. SAVE DASHBOARD RESULTS
+# ============================================================
+
+print("\n")
+print("============================================================")
+print("                SAVING DASHBOARD RESULTS")
+print("============================================================")
+
+orders_by_date = df.groupBy(
+    "order_date",
+    "order_status"
+).count().withColumnRenamed(
+    "count",
+    "total_orders"
+)
+
+orders_by_hour = df.groupBy(
+    "order_hour",
+    "order_status"
+).count().withColumnRenamed(
+    "count",
+    "total_orders"
+)
+
+order_status_summary = df.groupBy(
+    "order_status"
+).count().withColumnRenamed(
+    "count",
+    "total_orders"
+)
+
+restaurant_summary = df.groupBy(
+    "restaurant_id",
+    "restaurant_name",
+    "order_status"
+).count().withColumnRenamed(
+    "count",
+    "total_orders"
+)
+
+status_customer_orders = df.groupBy(
+    "order_status",
+    "customer_id"
+).count().withColumnRenamed(
+    "count",
+    "order_count"
+)
+
+status_customer_summary = status_customer_orders.groupBy(
+    "order_status"
+).agg(
+    count("*").alias("total_unique_customers"),
+    spark_sum(
+        when(col("order_count") > 1, 1).otherwise(0)
+    ).alias("repeat_customers"),
+    spark_sum(
+        when(col("order_count") == 1, 1).otherwise(0)
+    ).alias("one_time_customers")
+)
+
+overall_customer_summary = customer_orders.agg(
+    count("*").alias("total_unique_customers"),
+    spark_sum(
+        when(col("order_count") > 1, 1).otherwise(0)
+    ).alias("repeat_customers"),
+    spark_sum(
+        when(col("order_count") == 1, 1).otherwise(0)
+    ).alias("one_time_customers")
+).withColumn(
+    "order_status",
+    lit("__ALL_ORDERS__")
+).select(
+    "order_status",
+    "total_unique_customers",
+    "repeat_customers",
+    "one_time_customers"
+)
+
+customer_summary = overall_customer_summary.unionByName(
+    status_customer_summary
+)
+
+save_single_csv(orders_by_date, "orders_by_date.csv")
+save_single_csv(orders_by_hour, "orders_by_hour.csv")
+save_single_csv(order_status_summary, "order_status.csv")
+save_single_csv(restaurant_summary, "top_restaurants.csv")
+save_single_csv(customer_summary, "customer_summary.csv")
+
+print(f"Dashboard CSV files saved in: {OUTPUT_DIR}")
+
+
+# ============================================================
+# 9. FINISH
 # ============================================================
 
 print("\n")
